@@ -40,5 +40,12 @@
     "dependencies": [],
     "resources": {},
     "tags": {}
+  },
+  "hello": {
+    "resource_type": "api_gateway",
+    "deploy_stage": "api",
+    "dependencies": [],
+    "resources": {},
+    "tags": {}
   }
 }
